@@ -4,33 +4,33 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
-### I am ✨ Ochu Dominic Onah (domchu) ✨,
+### I am ✨ Effiong Favour Onah (FavouriteCOde) ✨,
 A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of expertise in constructing robust websites and applications within dynamic, collaborative settings. A creative force committed to delivering innovative solutions. You can also find me on 
-<a href="https://www.linkedin.com/in/dominic-ochu" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/favour-effiong-5943522b0/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-</a>, +2348110998914, or +2347034278995.
+</a>, +2348138347804.
 
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=NODE&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=NEXT&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-ChakraUI-informational?style=flat&logo=chakra-ui-chakraui&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=SASS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-materialui&logoColor=white&color=2bbc8a)
+![Chakra-ui](https://img.shields.io/badge/Tools-chakra-%234ED1C5.svg?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 
 <!-- ## 🔧 Technologies & Tools
-![Chakra-ui](https://img.shields.io/badge/Tools-chakra-%234ED1C5.svg?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MaterialUI-informational?style=flat&logo=material-ui-materialui&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SemanticUI-informational?style=flat&logo=semantic-ui-react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=NODE&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vs-code?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
@@ -49,14 +49,8 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
  
 ## &#x1f4c8; GitHub Stats (Current Account)
 
-<a href="https://github.com/domchu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=domchu&count_private=true&show_icons=true&theme=tokyonight" alt="Ochu Dominic Onah's GitHub Stats" />
-</a>
-
-#
-
-<a href="https://github.com/domchu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domchu&layout=compact&show_icons=true&theme=dracula&langs_count=8" />
+<a href="https://github.com/Flavourite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flavourite&count_private=true&show_icons=true&theme=tokyonight" alt="Effiong Favour's GitHub Stats" />
 </a>
 
 #
@@ -77,10 +71,10 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 </a>  -->
 
 
-
+<!--
 <a href="https://github.com/domchu">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=domchu&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /> 
-</a>  
+</a>  -->
 
 <!-- links to social media icons -->
 
@@ -98,9 +92,9 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 
 <!-- links to your social media accounts -->
 
-<!-- [1]: https://twitter.com/OnahOchu
+[1]: https://twitter.com/OnahOchu
 [2]: https://github.com/domchu
-[3]: https://www.linkedin.com/in/dominic-ochu/ -->
+[3]: https://www.linkedin.com/in/favour-effiong-5943522b0/
 
 
 <!-- Resources -->
