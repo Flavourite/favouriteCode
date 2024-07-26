@@ -91,10 +91,10 @@ A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of 
 
 
 <!-- links to your social media accounts -->
-
-[1]: https://twitter.com/OnahOchu
-[2]: https://github.com/domchu
-[3]: https://www.linkedin.com/in/favour-effiong-5943522b0/
+<!--
+[1]: https://twitter.com/OnahOchu -->
+[2]: https://github.com/Flavourite
+[3]: www.linkedin.com/in/favour-effiong-5943522b0
 
 
 <!-- Resources -->
