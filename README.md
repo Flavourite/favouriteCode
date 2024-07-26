@@ -4,7 +4,7 @@
 
 # Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> thanks for stopping by
 
-### I am ✨ Effiong Favour Onah (FavouriteCOde) ✨,
+### I am ✨ Favour Idem Effiong (FavouriteCode) ✨,
 A dynamic and steadfast Front-End Engineer with more than three years (3yrs) of expertise in constructing robust websites and applications within dynamic, collaborative settings. A creative force committed to delivering innovative solutions. You can also find me on 
 <a href="https://www.linkedin.com/in/favour-effiong-5943522b0/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
